@@ -3,7 +3,7 @@ PDF AI Query – Yapay Zekâ Destekli PDF Sorgulama Sistemi
 Bu proje, kullanıcıların PDF dosyalarını yapay zekâ ile sorgulamasını sağlayan tamamen ücretsiz, lokalde çalışan bir uygulamadır.
 Sistem, PDF’i okuyup anlamlı parçalara böler, embedding (vektör) çıkarır ve kullanıcının sorduğu soruya en alakalı metni PDF içinden bulup getirir.
 
-🚀 Özellikler
+ Özellikler
 
 ✔ Tamamen ücretsiz
 
@@ -47,7 +47,7 @@ python app.py
 4) Tarayıcıdan uygulamayı aç
 http://127.0.0.1:5000
 
-💡 Kullanım
+ Kullanım
 
 PDF dosyanı llm klasörüne yerleştir.
 
@@ -63,7 +63,7 @@ Web arayüzünde istediğin soruyu sor:
 
 Sistem PDF’den en uygun metni bulup ekrana getirir.
 
-🤖 Kullanılan Yapay Zekâ Teknolojisi
+Kullanılan Yapay Zekâ Teknolojisi
 
 Bu projede aşağıdaki ücretsiz AI teknolojileri kullanıldı:
 
